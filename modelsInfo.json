@@ -1,33 +1,21 @@
 {
    "info":[
       {
-         "title":"Sofa",
-         "subTitle":"Sofa Model",
-         "link":"https://poly.googleusercontent.com/downloads/c/fp/1591168336068232/6-V0mOvdw3e/12N07swE7TU/pj%206.3.20%201.gltf",
-         "backImage":"https://lh3.googleusercontent.com/XyxaRG8WVfk1Iirhe5SLZ5M_G164xBiOQVSUYY78mCnIZFaSIoMkmHvkrpe6I5Hgzg=w576-h432-n-rw"
+         "title":"Building - 1",
+         "subTitle":"Architectural Building",
+         "link":"https://poly.googleusercontent.com/downloads/c/fp/1591875414831685/ae--mG5sYds/9gFkN1T_JlO/project%20x.glb",
+         "backImage":""
       },
       {
-         "title":"Bunglow",
-         "subTitle":"Bunglow-2 Model",
+         "title":"Bed",
+         "subTitle":"Bed Model",
          "link":"https://poly.googleusercontent.com/downloads/c/fp/1591092277585931/8mkAgVYGbL4/5oNDqZI-I0J/Bed_01.gltf",
          "backImage":"https://lh3.googleusercontent.com/nSN14SikePMSIm5VxnvC6fyEB4nNAEOPT3HE8GbEpjUXlrdl7ccN1CTeLb3dA7c=w576-h432-n-rw"
       },
       {
-         "title":"House",
-         "subTitle":"House Model",
-         "link":"https://poly.googleusercontent.com/downloads/c/fp/1590659573877425/7kPXumkI9pu/15vQqvB4eMi/model.gltf",
-         "backImage":"https://lh3.googleusercontent.com/z5l_LfXJE_20UpFYi4G3_leLkYUrj0iQJQWzbmE2jPXPh8sx6Lz9KfdZ8v7aEhYs=w576-h432-n-rw"
-      },
-      {
-         "title":"Bunglow",
-         "subTitle":"Bunglow Model",
-         "link":"https://poly.googleusercontent.com/downloads/c/fp/1591179448795174/8g0bhgK--It/0lpdqXe_ZrM/project%20x.gltf",
-         "backImage":""
-      },
-      {
-         "title":"Bunglow-1",
-         "subTitle":"Bunglow-1 Model",
-         "link":"https://poly.googleusercontent.com/downloads/c/fp/1591178325977317/7hFxQJtKiBA/bXkdVnOmA_N/1%20project.gltf",
+         "title":"Building - 2",
+         "subTitle":"Architectural Building",
+         "link":"https://poly.googleusercontent.com/downloads/c/fp/1591610030524725/7hFxQJtKiBA/7RhF5WnZL21/1%20project.glb",
          "backImage":"https://lh3.googleusercontent.com/qy6Dnv9D0GcBONf66uYDtmeqesBU0s7GUizOeADLb2Z5u3cfkoQ-E2qlud4kJFur=w576-h432-n-rw"
       }
    ]
