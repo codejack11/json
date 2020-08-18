@@ -1,10 +1,10 @@
 {
    "info":[
       {
-         "title":"Building - 1",
-         "subTitle":"Architectural Building",
+         "title":"Truck",
+         "subTitle":"Cesium Milk Truck",
          "link":"https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/CesiumMilkTruck/glTF/CesiumMilkTruck.gltf",
-         "backImage":"https://img2.cgtrader.com/items/863515/0785db3a4a/cartoon-low-poly-car-lorry-3d-model-low-poly-max-obj-fbx.jpg"
+         "backImage":"https://lh3.googleusercontent.com/n0QvSt72s6PEaZ29fybRGO5iqnRMQ_bYiXn8s5XqO-T_Sy_nSqxMRICaB80k-rBK=w576-h432-n-rw"
       },
       {
          "title":"Bed",
@@ -16,7 +16,7 @@
          "title":"New Home",
          "subTitle":"Created on 18th Aug, 2020",
          "link":"https://raw.githubusercontent.com/codejack11/3d-models/master/model18082020/1aqq.gltf",
-         "backImage":"https://storage.googleapis.com/3d_model_images/823/8230850/house-made-in-blender-vr-ar-lowpoly-3d-model-iIG0hHpA_200.jpg"
+         "backImage":"https://lh3.googleusercontent.com/ffBcsYUtpuIa3WDwyF2Pcyn38g1JluUxtKqO_2OxPyBGnq5g5wBeY-nSfn2lQ1c=w576-h432-n-rw"
       }
    ]
 }
