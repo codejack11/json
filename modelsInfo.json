@@ -13,10 +13,16 @@
          "backImage":"https://lh3.googleusercontent.com/nSN14SikePMSIm5VxnvC6fyEB4nNAEOPT3HE8GbEpjUXlrdl7ccN1CTeLb3dA7c=w576-h432-n-rw"
       },
       {
-         "title":"New Home",
+         "title":"Cottage",
          "subTitle":"Created on 18th Aug, 2020",
-         "link":"https://raw.githubusercontent.com/codejack11/3d-models/master/model18082020/1aqq.gltf",
+         "link":"https://raw.githubusercontent.com/codejack11/3d-models/master/Cottage/1aqq.gltf",
          "backImage":"https://lh3.googleusercontent.com/ffBcsYUtpuIa3WDwyF2Pcyn38g1JluUxtKqO_2OxPyBGnq5g5wBeY-nSfn2lQ1c=w576-h432-n-rw"
+      },
+      {
+         "title":"Alpine Chalet",
+         "subTitle":"Created on 21th Aug, 2020",
+         "link":"https://raw.githubusercontent.com/codejack11/3d-models/master/Alpine%20Chalet/Alpine_chalet.gltf",
+         "backImage":"https://media.sketchfab.com/models/2ac40506a2d74e60be6e9df6657a6367/thumbnails/170e2b3704544f089e63b80c9e7086d5/0542892608d144ebb93c8e4d3497f844.jpeg"
       }
    ]
 }
