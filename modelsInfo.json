@@ -1,6 +1,12 @@
 {
    "info":[
       {
+         "title":"Luxury Villa",
+         "subTitle":"Created on 25th Aug, 2024",
+         "link":"https://raw.githubusercontent.com/codejack11/3d-models/master/Luxury%20Villa/scene.gltf",
+         "backImage":"https://media.sketchfab.com/models/ebc73bb8dd844edab58288a9ec1167e2/thumbnails/0d55e3c9d28e405997d55b2bcc8f3d86/b867ff2dc5434d12b0703cd98e8a09dd.jpeg"
+      },
+      {
          "title":"House Cube",
          "subTitle":"Created on 25th Aug, 2024",
          "link":"https://raw.githubusercontent.com/codejack11/3d-models/master/House%20Cube/scene.gltf",
